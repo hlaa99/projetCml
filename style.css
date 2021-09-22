@@ -1,2 +1,9 @@
 body{
-background-color:"white";
+background-color:rgb(215, 215, 223);
+}
+.ba{
+    font-size: 100px;
+    font-weight: 100;
+    color: blue;
+    text-align: center;
+}
